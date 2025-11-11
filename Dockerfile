@@ -17,4 +17,5 @@ COPY . .
 EXPOSE 5000
 
 # Set the default command to start the Flask app
+
 CMD ["python", "app.py"]
